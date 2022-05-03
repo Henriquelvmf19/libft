@@ -59,5 +59,5 @@ funcoes que irao usar o malloc()
 • calloc 
 • strdup
 
-alem dessas funcoes teremos que
+pdf-https://cdn.intra.42.fr/pdf/pdf/50832/en.subject.pdf
 
