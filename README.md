@@ -1,9 +1,9 @@
 Primeiro Projeto da 42 chamado libft,total de 70 horas para realizacao, vamos listar oque o programa pede junto com suas especificacoes
 
 
-======================================================================================================
+=================================================
 									LIBFT - Minha primeira Biblioteca
-======================================================================================================
+=================================================
 
 O projeto visacodar uma biblioteca em C, com varias funcoes para usos variados, todas as funcoes serao desenvolvidas por mim e serao utilizadas nos projetos subsequentes
 
