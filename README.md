@@ -59,65 +59,65 @@ vamos recriar algumas funções da Bibliotaca Libc e desenvolver nossa própria 
 
 - FUNÇÃO -    feita	revisada	main()
 
-• isalpha	OK
-• isdigit	OK
-• isalnum	OK
-• isascii 	OK
-• isprint 	OK
-• strlen 	OK
-• memset 	!
-• bzero		!
-• memcpy 	!
-• memmove 	!
-• strlcpy 	OK
-• strlcat	OK
-• toupper	OK
-• tolower 	OK
-• strchr 	OK	
-• strrchr 	OK
-• strncmp 	OK
-• memchr 	!
-• memcmp 	!
-• strnstr 	OK
-• atoi		!
+• isalpha	OK	!		!
+• isdigit	OK	!		!
+• isalnum	OK	!		!
+• isascii 	OK	!		!
+• isprint 	OK	!		!
+• strlen 	OK	!		!
+• memset 	!	!		!
+• bzero		!	!		!
+• memcpy 	!	!		!
+• memmove 	!	!		!
+• strlcpy 	OK	!		!
+• strlcat	OK	!		!
+• toupper	OK	!		!
+• tolower 	OK	!		!
+• strchr 	OK	!		!
+• strrchr 	OK	!		!
+• strncmp 	OK	!		!
+• memchr 	!	!		!
+• memcmp 	!	!		!
+• strnstr 	OK	!		!
+• atoi		!	!		!
 
 funções que irão usar o malloc()
 
 - FUNÇÃO -    feita	revisada	main()
 
-• calloc 	!
-• strdup	!
+• calloc 	!	!		!
+• strdup	!	!		!
 
 tembém existem funções adicionais solicitadas pela 42
 
 - FUNÇÃO -    	feita		revisada	main()
 
-• ft_substr	!
-• ft_strjoin	!
-• ft_strtrim	!
-• ft_split	!
-• ft_itoa	!
-• ft_strmapi	!
-• ft_striteri	!
-• ft_putchar_fd	!
-• ft_putstr_fd	!
-• ft_putendl_fd	!
-• ft_putnbr_fd	!
+• ft_substr	!		!		!
+• ft_strjoin	!		!		!
+• ft_strtrim	!		!		!
+• ft_split	!		!		!
+• ft_itoa	!		!		!
+• ft_strmapi	!		!		!
+• ft_striteri	!		!		!
+• ft_putchar_fd	!		!		!
+• ft_putstr_fd	!		!		!
+• ft_putendl_fd	!		!		!
+• ft_putnbr_fd	!		!		!
   
 FUNÇÕES BONÛS
 
 
 - FUNÇÃO -   	 	feita		revisada	main()
 
-• ft_lstnew		!
-• ft_lstadd_front	!
-• ft_lstsize		!
-• ft_lstlast		!
-• ft_lstadd_back	!
-• ft_lstdelone		!
-• ft_lstclear		!
-• ft_lstiter		!
-• ft_lstmap		!
+• ft_lstnew		!		!		!
+• ft_lstadd_front	!		!		!
+• ft_lstsize		!		!		!
+• ft_lstlast		!		!		!
+• ft_lstadd_back	!		!		!
+• ft_lstdelone		!		!		!
+• ft_lstclear		!		!		!
+• ft_lstiter		!		!		!
+• ft_lstmap		!		!		!
 
 pdf-https://cdn.intra.42.fr/pdf/pdf/50832/en.subject.pdf
 
