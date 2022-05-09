@@ -79,7 +79,7 @@ vamos recriar algumas funções da Bibliotaca Libc e desenvolver nossa própria 
 • memchr 	INTRA	!		!
 • memcmp 	INTRA	!		!
 • strnstr 	OK	!		!
-• atoi		!	!		!
+• atoi		OK	!		!
 
 funções que irão usar o malloc()
 
@@ -97,12 +97,12 @@ tembém existem funções adicionais solicitadas pela 42
 • ft_strtrim	OK		!		!
 • ft_split	OK		!		!
 • ft_itoa	OK		!		!
-• ft_strmapi	!		!		!
-• ft_striteri	!		!		!
-• ft_putchar_fd	!		!		!
-• ft_putstr_fd	!		!		!
-• ft_putendl_fd	!		!		!
-• ft_putnbr_fd	!		!		!
+• ft_strmapi	OK		!		!
+• ft_striteri	OK		!		!
+• ft_putchar_fd	OK		!		!
+• ft_putstr_fd	OK		!		!
+• ft_putendl_fd	OK		!		!
+• ft_putnbr_fd	OK		!		!
   
 FUNÇÕES BONÛS
 
