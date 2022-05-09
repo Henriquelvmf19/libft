@@ -65,10 +65,10 @@ vamos recriar algumas funções da Bibliotaca Libc e desenvolver nossa própria 
 • isascii 	OK	!		!
 • isprint 	OK	!		!
 • strlen 	OK	!		!
-• memset 	!	!		!
-• bzero		!	!		!
-• memcpy 	!	!		!
-• memmove 	!	!		!
+• memset 	INTRA	!		!
+• bzero		INTRA	!		!
+• memcpy 	INTRA	!		!
+• memmove 	INTRA	!		!
 • strlcpy 	OK	!		!
 • strlcat	OK	!		!
 • toupper	OK	!		!
@@ -76,8 +76,8 @@ vamos recriar algumas funções da Bibliotaca Libc e desenvolver nossa própria 
 • strchr 	OK	!		!
 • strrchr 	OK	!		!
 • strncmp 	OK	!		!
-• memchr 	!	!		!
-• memcmp 	!	!		!
+• memchr 	INTRA	!		!
+• memcmp 	INTRA	!		!
 • strnstr 	OK	!		!
 • atoi		!	!		!
 
@@ -85,18 +85,18 @@ funções que irão usar o malloc()
 
 - FUNÇÃO -    feita	revisada	main()
 
-• calloc 	!	!		!
-• strdup	!	!		!
+• calloc 	INTRA	!		!
+• strdup	INTRA	!		!
 
 tembém existem funções adicionais solicitadas pela 42
 
 - FUNÇÃO -    	feita		revisada	main()
 
-• ft_substr	!		!		!
-• ft_strjoin	!		!		!
-• ft_strtrim	!		!		!
-• ft_split	!		!		!
-• ft_itoa	!		!		!
+• ft_substr	OK		!		!
+• ft_strjoin	OK		!		!
+• ft_strtrim	OK		!		!
+• ft_split	OK		!		!
+• ft_itoa	OK		!		!
 • ft_strmapi	!		!		!
 • ft_striteri	!		!		!
 • ft_putchar_fd	!		!		!
